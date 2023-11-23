@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(56, 137, 156);
+}
+.navbar {
+  background-color: darkblue;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+.miglior-album {
+  background-color: rgb(13, 13, 78);
+}
+.contenuto {
+  display: flex;
+}
+
+.dx {
+  width: 60%;
+}

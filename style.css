@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(56, 137, 156);
+}
+.navbar {
+  background-color: darkblue;
+}
+.album-preferiti {
+  background-color: rgb(107, 108, 211);
+}
+.card-group {
+  justify-content: center;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
